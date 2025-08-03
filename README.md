@@ -67,3 +67,7 @@ Example Benefits
 - An organization uses performance data to identify high-potential employees and develop succession plans. As a result, they are able to retain key talent and ensure continuity of leadership.
 - A business uses performance data to inform compensation decisions, resulting in a more fair and equitable compensation system
 
+ OUTPUT
+
+  <img width="1280" height="612" alt="Image" src="https://github.com/user-attachments/assets/24e64d33-860a-451b-851c-3c09bcf7238d" />
+
